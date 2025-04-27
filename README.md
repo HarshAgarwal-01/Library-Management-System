@@ -80,6 +80,16 @@ CREATE TABLE return_status(
 );
 ```
 
+### Import Data from Excel Using Import Wizard
+
+Import data directly from Excel files by using the SQL Server Import and Export Wizard.
+
+- In SQL Server Management Studio, connect to an instance of the SQL Server Database Engine.
+- Expand Databases.
+- Right-click a database.
+- Select Tasks.
+- Choose to Import Data or Export Data:
+
 ### 2. CRUD Operations
 
 - **Create**: Inserted sample records into the `books` table.
